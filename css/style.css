@@ -1,0 +1,32 @@
+.navbar {
+    border-bottom: 3px solid orange;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.nav-item5{
+    border: 1px solid orange;
+    background-color: orange;
+    margin-left: 20px;
+}
+.header{
+    min-height: 100vh;
+    background-color: white;
+}
+.right{
+    padding-left: 30px;
+}
+.right2{
+    padding-right: 300px;
+}
+.left{
+    padding-left: 70px; 
+}
+.left2{
+    padding-left: 300px; 
+}
+.mag{
+    margin-right: 30px;
+}
